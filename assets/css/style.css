@@ -201,6 +201,20 @@ p {
 .footer h2 {
   font-size: 20px;
 }
+
+/* Added smooth scroll behavior */
 html {
   scroll-behavior: smooth;
+}
+
+/* Added attributes for links */
+nav a {
+  display: inline-block;
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+nav a:hover {
+  color: #d9dcd6;
+  border-bottom: 4px #d9dcd6 dotted;
 }
