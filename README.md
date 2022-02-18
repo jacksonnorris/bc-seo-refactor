@@ -15,7 +15,7 @@ link to live demo: [Horiseon | Social Solution Services, Inc.](https://jacksonno
     Updated 'SEO' image in header to an abbr tag
     Added id for Search Engine Optimization div in content
     Updated CSS styling for links in the header to be more interactive
-    resized image to reduce page size by over 14MB
+    resized images to reduce page size and decrease load time
 
 ```
 
